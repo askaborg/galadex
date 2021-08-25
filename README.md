@@ -1,0 +1,2 @@
+# galadex
+A Galatic Index
